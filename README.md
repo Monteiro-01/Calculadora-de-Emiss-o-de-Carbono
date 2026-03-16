@@ -24,6 +24,17 @@ Um **calculador intuitivo de pegada de carbono** para ajudar você a **medir, ac
 
 ---
 
+## Projeto Base Autor Leonardo2891:
+
+[🍃 Calculadora de emissão de CO₂](https://github.com/Leonardo2891/Calculadora_carbono.git)
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/Leonardo2891/Calculadora_carbono.git
+cd Calculadora de emissão de CO₂
+
+
 ## 📦 Instalação e uso
 
 Clone o repositório:
@@ -31,3 +42,4 @@ Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/eco-track-go.git
 cd eco-track-go
+
